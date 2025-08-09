@@ -1,0 +1,14 @@
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\obj\Debug\net6.0\NoodleCLI-v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\obj\Debug\net6.0\NoodleCLI-v2.AssemblyInfoInputs.cache
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\obj\Debug\net6.0\NoodleCLI-v2.AssemblyInfo.cs
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\obj\Debug\net6.0\NoodleCLI-v2.csproj.CoreCompileInputs.cache
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\obj\Debug\net6.0\NoodleCLI-v2.genruntimeconfig.cache
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\bin\Debug\net6.0\NDLLIB.exe
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\bin\Debug\net6.0\NDLLIB.deps.json
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\bin\Debug\net6.0\NDLLIB.runtimeconfig.json
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\bin\Debug\net6.0\NDLLIB.dll
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\bin\Debug\net6.0\NDLLIB.pdb
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\obj\Debug\net6.0\NDLLIB.dll
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\obj\Debug\net6.0\refint\NDLLIB.dll
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\obj\Debug\net6.0\NDLLIB.pdb
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\obj\Debug\net6.0\ref\NDLLIB.dll

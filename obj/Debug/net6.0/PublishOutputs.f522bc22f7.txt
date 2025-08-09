@@ -1,0 +1,5 @@
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\publish\NDLLIB.exe
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\publish\NDLLIB.dll
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\publish\NDLLIB.deps.json
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\publish\NDLLIB.runtimeconfig.json
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\publish\NDLLIB.pdb

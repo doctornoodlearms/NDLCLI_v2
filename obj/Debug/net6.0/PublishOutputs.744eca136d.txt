@@ -1,0 +1,5 @@
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\bin\Debug\net6.0\publish\NDLLIB.exe
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\bin\Debug\net6.0\publish\NDLLIB.dll
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\bin\Debug\net6.0\publish\NDLLIB.deps.json
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\bin\Debug\net6.0\publish\NDLLIB.runtimeconfig.json
+C:\Users\Doctornoodlearms\Documents\Projects\NoodleCLI-v2\bin\Debug\net6.0\publish\NDLLIB.pdb
