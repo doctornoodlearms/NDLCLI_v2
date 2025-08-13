@@ -11,6 +11,8 @@ namespace NoodleCLI_v2;
 
 class Program {
 
+	const string version = "1.0.0";
+
 	const string projectLibrariesFolder = ".ndllib";
 	const string manifestFileName = "ndlmanifest.json";
 	static string manifestFile = $"{projectLibrariesFolder}\\{manifestFileName}";
@@ -21,6 +23,8 @@ class Program {
 
 
 	static void Main(string[] args) {
+
+		Console.WriteLine($"Noodle Lib Version: {version}");
 
 		if (args.Length == 0) {
 
@@ -163,11 +167,16 @@ class Program {
 
 		foreach (string i in Directory.EnumerateFiles($"{CurrentLocation}\\{projectLibrariesFolder}").ToArray()) {
 
-			string[] dirPath = i.Split("\\");
+			string fileName = Path.GetFileName(i);
+			string fileNameNoExtension = Path.GetFileNameWithoutExtension(fileName);
 
-			string fileName = dirPath[dirPath.Count() - 1];
+			if (fileName == manifestFileName) return;
 
-			FileInfo file = new FileInfo(GetLibrariesFolder() + $"\\{fileName}");
+			FileInfo file = new FileInfo(GetLibrariesFolder() + $"\\{fileNameNoExtension}\\{fileName}");
+			if (file.Exists == false) {
+
+				Console.WriteLine($"Invalid File Path: {file.FullName}]");
+			}
 			file.CopyTo($"{Environment.CurrentDirectory}\\{projectLibrariesFolder}\\{fileName}", true);
 			Console.WriteLine($"Updated: {fileName}");
 		}
